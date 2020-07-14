@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>NICI Chatbot Testing</title>
+	<script type="text/javascript" src="https://embed.swivl.chat"></script>
+<script>Swivl.embed('YiYHFjczCp');</script>
+</head>
+
+<body>
+	It's time to test the chatbot! How exciting! 
+</body>
+</html>
